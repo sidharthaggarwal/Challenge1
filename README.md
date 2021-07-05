@@ -10,6 +10,7 @@
 How to Deploy :
 
 Option 1. Create Stack in Cloud formation on which AWS account you want to create Stack.
+<br />
 Option 2.  Configure aws cli on your machine and using sceret key & Access key to deploy cloud formation template using below command
 aws cloudformation deploy --template-file /path_to_template/task.yml --stack-name task-3tier --parameter-overrides DBPass="Value1" KeyName=Value2 --tags Key1=Value1 SSHLocation=Value2
 
