@@ -6,6 +6,17 @@
       Option 1 - You can create key manually using GUI or Using CLI - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html#having-ec2-create-your-key-pair
       Option 2 - Create key manually on local machine with third party tool and import same  into key pairs on AWS under Network & Security
 
+Reources Created:
+
+Tier 1 :
+  - VPC
+  - ALB
+  - NAT Gateway
+Tier 2:
+  - 2 Web server EC2 Instances
+Tier 3:
+  - RDS Instance
+
 
 How to Deploy :
 
