@@ -12,11 +12,13 @@ Tier 1 :
   - VPC
   - ALB
   - NAT Gateway
+  
 Tier 2:
   - 2 Web server EC2 Instances
+
 Tier 3:
   - RDS Instance
-
+<br />
 
 How to Deploy :
 
